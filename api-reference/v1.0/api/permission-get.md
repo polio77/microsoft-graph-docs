@@ -57,6 +57,15 @@ Here is an example of the request to access a permission on a folder.
 ```http
 GET /me/drive/items/{item-id}/permissions/{perm-id}
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-item-permission-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/get-item-permission-Javascript-snippets.md)]
+
+---
+
 
 ### Response
 

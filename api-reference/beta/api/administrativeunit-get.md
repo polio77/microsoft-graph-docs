@@ -72,6 +72,15 @@ Content-length: 134
   "id": "id-value"
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_administrativeunit-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/get_administrativeunit-Javascript-snippets.md)]
+
+---
+
 
 ## See also
 

@@ -51,6 +51,15 @@ string sharingUrl = "https://onedrive.live.com/redir?resid=1231244193912!12&auth
 string base64Value = System.Convert.ToBase64String(System.Text.Encoding.UTF8.GetBytes(sharingUrl));
 string encodedUrl = "u!" + base64Value.TrimEnd('=').Replace('/','_').Replace('+','-');
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-shared-root-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/get-shared-root-Javascript-snippets.md)]
+
+---
+
 
 ## Optional request headers
 
@@ -139,6 +148,15 @@ Content-Type: application/json
   "size": 109112
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-shared-driveitem-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/get-shared-driveitem-Javascript-snippets.md)]
+
+---
+
 
 ## Example (shared folder)
 
@@ -182,6 +200,15 @@ Content-Type: application/json
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-shared-driveitem-expand-children-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/get-shared-driveitem-expand-children-Javascript-snippets.md)]
+
+---
+
 
 ## Error Responses
 

@@ -67,6 +67,15 @@ Content-length: 53
   "id": "id-value"
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_photo-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/get_photo-Javascript-snippets.md)]
+
+---
+
 ##### Request
 Here is an example of the request for the photo bytes.
 <!-- {

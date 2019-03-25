@@ -80,6 +80,15 @@ Content-length: 55
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_joinedteams-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/get_joinedteams-Javascript-snippets.md)]
+
+---
+
 
 ## See also
 [List all teams](/graph/teams-list-all-teams)

@@ -78,6 +78,15 @@ Content-type: application/json
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-list-items-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/get-list-items-Javascript-snippets.md)]
+
+---
+
 
 <!-- {
   "type": "#page.annotation",

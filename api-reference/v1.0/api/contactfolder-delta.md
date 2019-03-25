@@ -117,6 +117,15 @@ Content-length: 254
   ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/contactfolder_delta-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/contactfolder_delta-Javascript-snippets.md)]
+
+---
+
 
 ### See also
 

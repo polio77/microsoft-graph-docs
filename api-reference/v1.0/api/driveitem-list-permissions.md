@@ -74,6 +74,15 @@ This example retrieves the collection of permissions on an item in the signed in
 ```http
 GET /me/drive/items/{item-id}/permissions
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-item-permissions-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/get-item-permissions-Javascript-snippets.md)]
+
+---
+
 
 ### Response
 

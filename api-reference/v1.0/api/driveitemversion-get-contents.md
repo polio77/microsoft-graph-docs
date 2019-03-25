@@ -52,6 +52,15 @@ This example retrieves a version of a file in the current user's drive.
 ```http
 GET /me/drive/items/{item-id}/versions/{version-id}/content
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get-version-contents-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/get-version-contents-Javascript-snippets.md)]
+
+---
+
 
 ### Response
 
