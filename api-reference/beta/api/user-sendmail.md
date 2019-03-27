@@ -104,6 +104,23 @@ Here is an example of the response.
 ```http
 HTTP/1.1 202 Accepted
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/user_sendmail_with_headers-C#-snippets.md)]
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/user_sendmail_with_headers-Javascript-snippets.md)]
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/user_sendmail_with_mentions-C#-snippets.md)]
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/user_sendmail_with_mentions-Javascript-snippets.md)]
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/user_sendmail-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/user_sendmail-Javascript-snippets.md)]
+
+---
+
 
 
 ##### Request 2

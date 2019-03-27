@@ -101,6 +101,15 @@ Content-Type: application/json
   }
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/create-folder-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create-folder-Javascript-snippets.md)]
+
+---
+
 
 ## Error response
 

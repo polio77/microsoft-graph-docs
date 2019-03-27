@@ -132,6 +132,19 @@ Content-type: application/json
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/create_message_with_headers_from_user-C#-snippets.md)]
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create_message_with_headers_from_user-Javascript-snippets.md)]
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/create_message_from_user-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create_message_from_user-Javascript-snippets.md)]
+
+---
+
 
 ##### Request 2
 The next example adds a couple of customer Internet message headers when creating the message draft.

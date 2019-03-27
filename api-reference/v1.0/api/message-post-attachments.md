@@ -111,6 +111,19 @@ Content-length: 202
 }
 
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/create_item_attachment_from_message-C#-snippets.md)]
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create_item_attachment_from_message-Javascript-snippets.md)]
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/create_file_attachment_from_message-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create_file_attachment_from_message-Javascript-snippets.md)]
+
+---
+
 
 ## Example (item attachment)
 

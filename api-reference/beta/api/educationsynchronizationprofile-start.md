@@ -122,6 +122,15 @@ Content-length: 2105
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/post_educationSynchronizationProfile_start-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/post_educationSynchronizationProfile_start-Javascript-snippets.md)]
+
+---
+
 <!--
 {
   "type": "#page.annotation",

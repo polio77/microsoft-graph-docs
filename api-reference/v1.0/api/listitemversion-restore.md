@@ -41,6 +41,15 @@ This example restores a version of a listItem identified by `{item-id}` and `{ve
 ```http
 POST /sites/{site-id}/lists/{list-id}/items/{item-id}/versions/{version-id}/restoreVersion
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/restore-item-version-listItem-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/restore-item-version-listItem-Javascript-snippets.md)]
+
+---
+
 
 ## Response
 

@@ -85,4 +85,13 @@ Content-length: 52
   "persistChanges": true
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/create_excel_session-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create_excel_session-Javascript-snippets.md)]
+
+---
+
 

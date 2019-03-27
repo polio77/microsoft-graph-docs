@@ -52,6 +52,15 @@ This example follows an item identified by `{item-id}`.
 ```http
 POST /me/drive/items/{item-id}/follow
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/follow-item-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/follow-item-Javascript-snippets.md)]
+
+---
+
 
 <!--
 {

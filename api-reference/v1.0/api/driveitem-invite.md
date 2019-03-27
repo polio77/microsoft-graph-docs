@@ -51,6 +51,15 @@ In the request body, provide a JSON object with the following parameters.
   "message": "string"
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/send-sharing-invite-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/send-sharing-invite-Javascript-snippets.md)]
+
+---
+
 
 | Parameter        | Type                           | Description
 |:-----------------|:-------------------------------|:-------------------------

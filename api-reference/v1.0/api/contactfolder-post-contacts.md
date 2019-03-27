@@ -102,6 +102,15 @@ Content-length: 210
   "initials": "initials-value"
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/create_contact_from_contactfolder-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create_contact_from_contactfolder-Javascript-snippets.md)]
+
+---
+
 
 <br/>
 

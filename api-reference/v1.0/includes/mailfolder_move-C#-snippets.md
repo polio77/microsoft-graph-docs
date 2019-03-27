@@ -1,0 +1,13 @@
+
+```C#
+
+GraphServiceClient graphClient = new GraphServiceClient();
+
+var destinationId = "destinationId-value";
+
+await graphClient.Me.MailFolders["{id}"]
+	.move(destinationId);
+	.Request()
+	.PostAsync()
+
+```

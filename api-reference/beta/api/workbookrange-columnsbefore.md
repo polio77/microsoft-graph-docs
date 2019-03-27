@@ -79,6 +79,15 @@ Content-length: 157
   "columnIndex": 99
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/workbookrange_columnsbefore-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/workbookrange_columnsbefore-Javascript-snippets.md)]
+
+---
+
 <!--
 {
   "type": "#page.annotation",

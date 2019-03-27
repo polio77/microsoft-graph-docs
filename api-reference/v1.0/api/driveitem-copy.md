@@ -63,6 +63,15 @@ Content-Type: application/json
   "name": "contoso plan (copy).txt"
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/copy-item-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/copy-item-Javascript-snippets.md)]
+
+---
+
 
 ## Response
 

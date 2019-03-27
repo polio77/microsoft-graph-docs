@@ -92,6 +92,19 @@ Content-length: 162
   "id": "id-value"
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/create_item_attachment_from_post-C#-snippets.md)]
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create_item_attachment_from_post-Javascript-snippets.md)]
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/create_file_attachment_from_post-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/create_file_attachment_from_post-Javascript-snippets.md)]
+
+---
+
 
 ## Example (item attachment)
 

@@ -92,6 +92,13 @@ Content-Length: 430
 ```http
 HTTP/1.1 202 Accepted
 ```
+#### Sample Code
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/call-transfer-Javascript-snippets.md)]
+
+---
+
 
 ##### Notification - transferring
 
