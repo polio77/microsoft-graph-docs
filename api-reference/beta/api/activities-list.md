@@ -142,6 +142,15 @@ Content-type: application/json
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/list-activities-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/list-activities-Javascript-snippets.md)]
+
+---
+
 
 <!--
 {

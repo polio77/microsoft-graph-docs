@@ -44,6 +44,15 @@ GET /sites/{siteId}/lists/{listId}/drive/root/subscriptions/socketIo
 ```http
 GET /me/drive/root/subscriptions/socketIo
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/drive_root_subscriptions_socketIo-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/drive_root_subscriptions_socketIo-Javascript-snippets.md)]
+
+---
+
 
 ### Response
 

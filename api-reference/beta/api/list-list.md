@@ -40,6 +40,15 @@ GET https://graph.microsoft.com/beta/sites/{site-id}/lists
 ```http
 GET https://graph.microsoft.com/beta/sites/{site-id}/lists
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/enum-lists-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/enum-lists-Javascript-snippets.md)]
+
+---
+
 
 ##### Response
 

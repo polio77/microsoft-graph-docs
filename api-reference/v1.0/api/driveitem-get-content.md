@@ -49,6 +49,15 @@ Here is an example to download a complete file.
 ```http
 GET /me/drive/items/{item-id}/content
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/download-item-content-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/download-item-content-Javascript-snippets.md)]
+
+---
+
 
 ### Response
 

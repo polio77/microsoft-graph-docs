@@ -128,6 +128,15 @@ Content-type: application/json
     ]
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/get_eventmessage-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/get_eventmessage-Javascript-snippets.md)]
+
+---
+
 
 ##### Request 2
 The second example shows how to get the event associated with an event message. It uses 

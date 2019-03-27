@@ -67,6 +67,15 @@ Content-type: application/json;odata.metadata=minimal;odata.streaming=true
 "value" : "base-64 chart image string"
 }
 ```
+#### Sample Code
+# [CSharp](#tab/CSharp)
+[!INCLUDE [Sample Code]( ../includes/api-referencev10apichart-imagemd#0-C#-snippets.md)]
+
+# [Javascript](#tab/Javascript)
+[!INCLUDE [Sample Code]( ../includes/api-referencev10apichart-imagemd#0-Javascript-snippets.md)]
+
+---
+
 
 ## Usage
 
